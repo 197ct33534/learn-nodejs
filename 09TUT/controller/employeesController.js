@@ -30,7 +30,7 @@ const updateEmployee = (req, res) => {
   if (req.body.firstname) employee.firstname = req.body.firstname;
   if (req.body.lastname) employee.lastname = req.body.lastname;
   const filteredArray = data.employees.filter((emp) => emp.id !== parseInt(req.body.id));
-  console.log(employee);
+
   const unSortedArray = [...filteredArray, employee];
 
   data.setEmployees(unSortedArray.sort((a, b) => (a.id > b.id ? 1 : a.id < b.id ? -1 : 0)));
