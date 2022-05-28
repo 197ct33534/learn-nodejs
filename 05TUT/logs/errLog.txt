@@ -1,0 +1,14 @@
+2022-05-27	12:29:19	95064828-58ed-49d9-94eb-c0ceab23c098	ReferenceError: fsPromises is not defined
+2022-05-27	12:29:27	940cb1a5-7bed-4f5c-b839-170145346448	ReferenceError: fsPromises is not defined
+2022-05-27	12:30:39	53f1af9b-2254-4993-b4a4-1a838bd62fa7	ReferenceError: fsPromises is not defined
+2022-05-27	12:30:48	b7e9a022-9e10-4626-89cf-b882cdfa040c	ReferenceError: fsPromises is not defined
+2022-05-27	12:36:30	c67ca59a-944d-4cbd-9f09-94bf8ecd55d0	Error: ENOENT: no such file or directory, open 'D:\laptrinh\learn_nodejs\05TUT\views\404.html'
+2022-05-27	12:36:33	e3c96587-e159-40e7-87e7-ea852d816187	Error: ENOENT: no such file or directory, open 'D:\laptrinh\learn_nodejs\05TUT\views\404.html'
+2022-05-27	12:36:34	c9c20bcf-d3f2-49cf-a805-450c6b138150	Error: ENOENT: no such file or directory, open 'D:\laptrinh\learn_nodejs\05TUT\views\404.html'
+2022-05-27	12:36:34	d2737c7b-c2f5-40a7-858c-016ec2a2f8c6	Error: ENOENT: no such file or directory, open 'D:\laptrinh\learn_nodejs\05TUT\views\404.html'
+2022-05-27	12:36:55	321f39be-03bb-474b-af28-05e8110e00cf	Error: ENOENT: no such file or directory, open 'D:\laptrinh\learn_nodejs\05TUT\views\404.html'
+2022-05-27	12:37:41	5261d84d-c29d-4a80-b6e9-f19fa06bcd98	Error: ENOENT: no such file or directory, open 'D:\laptrinh\learn_nodejs\05TUT\views\404.html'
+2022-05-27	12:38:40	38c8765e-2a62-4c5c-ada1-e38c3735c5ea	Error: ENOENT: no such file or directory, open 'D:\laptrinh\learn_nodejs\05TUT\views\404.html'
+2022-05-27	12:38:52	3a869471-f342-4cfe-b1fc-2ba0b601ac14	Error: ENOENT: no such file or directory, open 'D:\laptrinh\learn_nodejs\05TUT\views\404.html'
+2022-05-27	12:38:53	dc7dac58-da4e-4d25-85dd-20cb244513ca	Error: ENOENT: no such file or directory, open 'D:\laptrinh\learn_nodejs\05TUT\views\404.html'
+2022-05-27	12:38:53	f46ae129-6a63-4d99-ac0b-f079809c8159	Error: ENOENT: no such file or directory, open 'D:\laptrinh\learn_nodejs\05TUT\views\404.html'
