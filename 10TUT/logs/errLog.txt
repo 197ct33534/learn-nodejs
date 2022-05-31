@@ -1,0 +1,8 @@
+2022-05-28	17:26:34	f8833ac0-bb38-4f6e-8e4f-e3e5a2ceef86	Error:not allowed by cross
+2022-05-28	17:26:34	09c3e704-ab49-4a99-9a32-07128313a78b	Error:not allowed by cross
+2022-05-28	19:56:50	3b3e207a-da5f-455c-80dc-cd0ee7508d42	ReferenceError:empy is not defined
+2022-05-28	19:57:37	9ac85d4e-d8da-42ab-932e-d09cd509d409	ReferenceError:empy is not defined
+2022-05-28	20:05:52	ea8728d0-ff89-4974-bb52-cfaa52f6eeba	ReferenceError:paseInt is not defined
+2022-05-28	20:06:15	825ff086-e47e-450f-9ad3-37d3709181bd	ReferenceError:paseInt is not defined
+2022-05-28	20:06:36	412de263-86b5-4bfc-8634-952b521649b2	ReferenceError:paseInt is not defined
+2022-05-28	20:08:54	9fe2448b-03fd-4569-b48f-ea5b79c30585	ReferenceError:paseInt is not defined
