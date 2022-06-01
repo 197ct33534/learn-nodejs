@@ -1,0 +1,28 @@
+2022-05-28	17:26:34	f8833ac0-bb38-4f6e-8e4f-e3e5a2ceef86	Error:not allowed by cross
+2022-05-28	17:26:34	09c3e704-ab49-4a99-9a32-07128313a78b	Error:not allowed by cross
+2022-05-28	19:56:50	3b3e207a-da5f-455c-80dc-cd0ee7508d42	ReferenceError:empy is not defined
+2022-05-28	19:57:37	9ac85d4e-d8da-42ab-932e-d09cd509d409	ReferenceError:empy is not defined
+2022-05-28	20:05:52	ea8728d0-ff89-4974-bb52-cfaa52f6eeba	ReferenceError:paseInt is not defined
+2022-05-28	20:06:15	825ff086-e47e-450f-9ad3-37d3709181bd	ReferenceError:paseInt is not defined
+2022-05-28	20:06:36	412de263-86b5-4bfc-8634-952b521649b2	ReferenceError:paseInt is not defined
+2022-05-28	20:08:54	9fe2448b-03fd-4569-b48f-ea5b79c30585	ReferenceError:paseInt is not defined
+2022-05-31	23:36:12	ddc1025c-4b9b-4191-89af-bdeb5b7c2cd8	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:37:46	da5dbc55-6eb7-46dc-ae80-1149213e3184	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:44:33	e5bac743-1d7e-4bf8-80ae-7fa16d16f094	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:48:30	74eab97e-2adb-4f86-aec6-080282f1a812	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:49:44	9392e9a3-b50e-4650-8375-45b253373643	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:50:54	e2c8a07d-f0de-4691-9c3b-8dcba2a8e887	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:54:06	1c35d80e-4069-4a54-b41a-290c975121c9	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:55:42	5096371e-0398-47e2-8aed-ecd1e2c4b275	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:55:43	13e37b59-088f-440c-9067-b6e1c78bf45c	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:55:44	63a2cd5c-4349-4530-9dc8-bfba7b27d2bd	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:55:44	dd48f686-696e-4373-8bf7-b734b6b65150	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:55:44	0043a985-229e-4b52-a63a-482d70ac4823	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:58:22	44b803fc-847d-498a-af38-a54a4585b8dd	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:59:04	f43cc362-1c22-461b-aa34-3a4ab2a0a273	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:59:05	c3386951-63ee-4fa9-ad82-1b3a37b7a313	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-05-31	23:59:16	db95a7f1-dcfb-4a9b-a368-dfb6aaed3ecd	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-06-01	00:00:22	6d2f9963-76fa-4856-8bce-4da8b772760e	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-06-01	00:01:57	a3e2df4d-b626-4ba7-8a60-3388b39fc34b	TypeError:Cannot read properties of undefined (reading 'jwt')
+2022-06-01	14:46:10	7bc6d8ca-3038-4627-a43f-1e68743719d2	Error:Cannot set headers after they are sent to the client
+2022-06-01	14:47:23	d57f41a5-f346-4d85-946e-e901f7682d70	Error:Cannot set headers after they are sent to the client
